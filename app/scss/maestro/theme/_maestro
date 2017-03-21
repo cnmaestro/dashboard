@@ -1,0 +1,8 @@
+$primarybrandcolor: #ffffff;
+$secondarybrandcolor: #213f7a;
+$tertiarybrandcolor: #cccccc;
+$primarytextcolor: #000000;
+$secondarytextcolor: #666666;
+$pagebackground: #e1e1e1;
+$thumbnailprimary: #a71e18;
+$thumbnailsecondary: #ddab4a;

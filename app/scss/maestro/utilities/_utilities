@@ -1,0 +1,28 @@
+/* Padding */
+
+.padding-0 { padding: 0; }
+.padding-r-0 { padding-right: 0; }
+.padding-left-0 { padding-left: 0; }
+.padding-tb-0 { padding-top: 0; padding-bottom: 0; }
+.padding-rl-0 { padding-right: 0; padding-left: 0; }
+.padding-5 { padding: 5px; }
+.padding-10 { padding: 10px; }
+.padding-tb-5 { padding-top: 5px; padding-bottom: 5px; }
+
+/* Margin */
+
+.margin-0 { margin: 0; }
+.margin-tb-10 { margin-top: 10px; margin-bottom: 10px; }
+.margin-tb-5 { margin-top: 5px; margin-bottom: 5px; }
+.margin-t-5 { margin-top: 5px; }
+.margin-t-3 { margin-top: 3px; }
+.margin-b-10 { margin-bottom: 10px; }
+
+/* Border */
+
+.no-border-radius { border-radius: 0; }
+
+
+/* height */
+
+.min-height-panel { min-height: 261px; }

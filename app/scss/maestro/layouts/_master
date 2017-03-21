@@ -1,0 +1,22 @@
+body { 
+	background-color: $pagebackground; 
+	font-family: 'Open Sans';
+}
+
+.thumbnail {
+	padding: 5px 12px;
+    border-radius: 28px;
+    border: none;
+    display: block;
+}
+
+.thumbnail.primary {
+	background-color: $thumbnailprimary;
+}
+
+.thumbnail.secondary {
+	background-color: $thumbnailsecondary;
+
+}
+
+

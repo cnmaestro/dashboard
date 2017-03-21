@@ -1,0 +1,69 @@
+.second-panel { 
+	background-color: $secondarybrandcolor; 
+
+	h1 {
+		color: $primarybrandcolor;
+	}
+
+	h6 {
+		color: $primarybrandcolor;
+	}
+}
+
+.panel-header {
+	font-size: 14px;
+    font-weight: 600;
+	border-bottom: 1px solid;
+	line-height: 35px;
+    text-indent: 10px;
+
+    a {
+
+    	span {
+    		font-weight: bold;
+    		color: $primarytextcolor;
+    		font-size: 9px;
+    	}
+
+    	i {
+    		font-size: 20px;
+    		padding: 8px 8px 8px 0;
+    		color: $secondarytextcolor;
+    		float: right;
+    	}
+    }
+}
+
+.panel-header.secondary {
+    color: $primarybrandcolor;
+    border-color: $primarybrandcolor;
+}
+
+.panel-header.primary {
+    color: $secondarytextcolor;
+    border-color: $tertiarybrandcolor;
+}
+
+.panel-scroll {
+    height: 300px;
+    overflow-y: auto; 
+}
+
+.panel-dropdown {
+
+    label {
+        font-size: 11px;
+        font-weight: bold;
+        padding-top: 7px;
+    }
+    
+    .form-control {
+        font-weight: normal;
+        font-size: 12px;
+        height: 30px;
+    }
+}
+
+.c3-area {
+  opacity: 0.6 !important;
+}
